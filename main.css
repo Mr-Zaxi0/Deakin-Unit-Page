@@ -16,6 +16,7 @@ p {
   font-family: Arial
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 th, td {
   padding: 8px;
   text-align: left;
@@ -25,10 +26,15 @@ th, td {
 
 tr:nth-child(odd) {background-color: #f2f2f2;}
 =======
+=======
+>>>>>>> 27cc0b973c6d299975d034f16cba53d442ba592f
 div {
   background-color: darkcyan;
   text-align: right;
 }
+<<<<<<< HEAD
 >>>>>>> add-header
+=======
+>>>>>>> 27cc0b973c6d299975d034f16cba53d442ba592f
 
 
